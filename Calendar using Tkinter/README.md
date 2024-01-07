@@ -1,4 +1,4 @@
 To run this project  
 
-you have you install Python from their official website : python.org
-Also you have to import ttkbootstrap : In Command Prompt : python -m pip install ttkbootstrap , and press Enter
+1) You should have python installed 
+2) Also you have to import ttkbootstrap : In Command Prompt : python -m pip install ttkbootstrap , and press Enter
